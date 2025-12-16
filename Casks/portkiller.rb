@@ -1,6 +1,6 @@
 cask "portkiller" do
-  version "2.2.2"
-  sha256 "836aaedbbf4eed1294fd3134eea3512a3a6a70c38d7ef6e1f5304cbda0786ade"
+  version "2.2.3"
+  sha256 "7b7e9e244b4c6a097db7877491a2882f574b3141c68f8f238d994116e73058c7"
 
   url "https://github.com/productdevbook/port-killer/releases/download/v#{version}/PortKiller-v#{version}-arm64.dmg"
   name "PortKiller"

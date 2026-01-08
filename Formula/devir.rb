@@ -1,28 +1,28 @@
 class Devir < Formula
   desc "Dev Runner CLI - Terminal UI for managing dev services"
   homepage "https://github.com/productdevbook/devir"
-  version "0.3.0"
+  version "0.4.0"
   license "MIT"
 
   on_macos do
     on_arm do
-      url "https://github.com/productdevbook/devir/releases/download/v0.3.0/devir-darwin-arm64.tar.gz"
-      sha256 "fc7b37161177318c3fad5dcc304e65fa94da0bcd1ccc9e20d83523e2967cb308"
+      url "https://github.com/productdevbook/devir/releases/download/v0.4.0/devir-darwin-arm64.tar.gz"
+      sha256 "64ea1bb8c521d2be1da376701647294eb52b35010a8ae4fa9c854163804dd59b"
     end
     on_intel do
-      url "https://github.com/productdevbook/devir/releases/download/v0.3.0/devir-darwin-amd64.tar.gz"
-      sha256 "99013142c406a0ab7ee311cdb98f82f7d3e503db57984fe3100eb21d660280b2"
+      url "https://github.com/productdevbook/devir/releases/download/v0.4.0/devir-darwin-amd64.tar.gz"
+      sha256 "50cd65264f7a262c220d836915b915ae7754583a55844d0020c05d07065f9233"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/productdevbook/devir/releases/download/v0.3.0/devir-linux-arm64.tar.gz"
-      sha256 "d72f2fbc600a325534a1dcd5efe49f0d010d6fa7bfa7a31a82c1ee84fb5dc755"
+      url "https://github.com/productdevbook/devir/releases/download/v0.4.0/devir-linux-arm64.tar.gz"
+      sha256 "a8fb7a5d334bb3a53bc82a8b907ffb5b15d93ac10aa1b6d0d18ac1f5d7f5ea92"
     end
     on_intel do
-      url "https://github.com/productdevbook/devir/releases/download/v0.3.0/devir-linux-amd64.tar.gz"
-      sha256 "ced0fde3c2cab8f5700ae7c932c5e24b9f492092fe74d07a4cc10999d4b16b51"
+      url "https://github.com/productdevbook/devir/releases/download/v0.4.0/devir-linux-amd64.tar.gz"
+      sha256 "8fb2bb42f142566778793d20f156f96015cbf88b50c7295e76433252d1f9e8d2"
     end
   end
 

@@ -8,7 +8,7 @@ cask "portkiller" do
   desc "Menu bar app to find and kill processes running on open ports"
   homepage "https://github.com/productdevbook/port-killer"
 
-  depends_on macos: ">= :sequoia"
+  depends_on macos: :sequoia
 
   app "PortKiller.app"
 

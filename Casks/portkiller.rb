@@ -1,6 +1,6 @@
 cask "portkiller" do
-  version "3.3.3"
-  sha256 "f18d0f197f3401ebbd2dc81881793f4174b772494e4357f4a6330e2902ccb4d8"
+  version "3.4.0"
+  sha256 "5265966e7308461b76f8bc35a4b0d28ba6f72150e4715d9a68b8c91b11d8fa60"
 
   url "https://github.com/productdevbook/port-killer/releases/download/v#{version}/PortKiller-v#{version}-macos.dmg"
   name "PortKiller"

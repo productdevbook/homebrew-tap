@@ -1,6 +1,6 @@
 cask "fil" do
-  version "0.1.0"
-  sha256 "19f8e81ff6ed2623aa15180cebc1cdf11be6996b3259083980bed2e2c57e70c8"
+  version "0.1.1"
+  sha256 "716157edad5f8b95377cfdf67b118493bdf0684dc035248f990b2ae81a17bc91"
 
   url "https://github.com/productdevbook/fil/releases/download/v#{version}/fil-#{version}-arm64.tar.gz"
   name "Fil"

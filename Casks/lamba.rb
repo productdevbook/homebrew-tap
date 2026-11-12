@@ -1,6 +1,6 @@
 cask "lamba" do
-  version "0.1.1"
-  sha256 "66d3a41532b820c1fc24f48236ccdb8b6ad1e173992841722674a784a70c5b2b"
+  version "0.2.0"
+  sha256 "c778b17d95722ed068bdd4a336a33bda0cf3069cc6b9ac2e60d2316007a2d636"
 
   url "https://github.com/productdevbook/lamba/releases/download/v#{version}/Lamba-#{version}.dmg"
   name "Lamba"
